@@ -9,6 +9,15 @@ If you use this code, please cite this paper as
 		year = {2024},
 }
 
-# The Pytorch traing code is released on 
+# The Pytorch training code is released on 
 
 https://github.com/6zhc/DECUN
+
+If you find it helpful, please cite the paper as
+
+@ARTICLE{Yanan24,
+    author = {Yanan Zhao and Yuelong Li and Haichuan Zhang and Vishal Monga and Yonina C. Eldar},
+    title = {Deep, convergent, unrolled half-quadratic splitting for image deconvolution},
+    journal={IEEE Trans. Comput. Imag.},
+    year = {2024},
+}
