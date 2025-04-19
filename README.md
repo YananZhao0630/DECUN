@@ -9,4 +9,6 @@ If you use this code, please cite this paper as
 		year = {2024},
 }
 
-# The Pytorch traing code is released on https://github.com/6zhc/DECUN
+# The Pytorch traing code is released on 
+
+https://github.com/6zhc/DECUN
