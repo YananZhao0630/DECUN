@@ -8,3 +8,5 @@ If you use this code, please cite this paper as
 		journal={arXiv preprint arXiv:2402.12872},
 		year = {2024},
 }
+
+# The Pytorch traing code is released on https://github.com/6zhc/DECUN
